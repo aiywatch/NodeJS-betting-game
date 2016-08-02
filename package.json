@@ -1,0 +1,14 @@
+{
+  "name": "betting-game-node",
+  "version": "1.0.0",
+  "description": "betting game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync-history": "^1.0.1"
+  }
+}
